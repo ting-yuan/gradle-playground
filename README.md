@@ -1,1 +1,1 @@
-`$ ./gradlew hello_main`
+`$ ./gradlew hello`
